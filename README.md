@@ -1,4 +1,3 @@
-# Austo-Automobile-Customer-Demand-Campaign-Efficiency-Python-Project-
 # Austo Automobile — Customer Demand & Campaign Efficiency
 
 This repository contains my project on **customer demand analysis** and **marketing campaign efficiency** for Austo Motor Company.
